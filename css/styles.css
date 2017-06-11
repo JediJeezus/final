@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,600|Shadows+Into+Light');
+/*GLOBAL SECTION*/
+
+.shadows{
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.rale{
+  font-family: 'Raleway', sans-serif;
+}
+
+
+/*HERO SECTION*/
+.jumbotron{
+  background-image: url("../img/hero.jpg");
+  text-align: center;
+  color: #fff;
+  background-position: center;
+  height: 500px;
+}
+.jumbotron .h1, .jumbotron h1{
+  padding-top: 36px;
+}
+
+.black{
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 200px;
+  padding-top: -2px;
+}
+
+.name {
+  margin-top: 100px;
+}
+
+.box{
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 1px solid #fff;
+  margin-top: 100px;
+}
+
+.btn-primary{
+  margin-top: 96px;
+}
+
+.btn-primary:hover, .btn-primary:active, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.dropdown-toggle.btn-primary.focus, .open>.dropdown-toggle.btn-primary:focus, .open>.dropdown-toggle.btn-primary:hover{
+  background-color: #fff;
+  border-color: #fff;
+  color: #000;
+}
+
+/*WORK SECTION*/
+
+.work{
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+  height: 50px;
+  margin-top: -30px;
+  font-size: 3em;
+}
+
+.line{
+  background-color: #ff5;
+  height: 10px;
+}
+/*Links Section*/
+
+.pastwork{
+  background-color: #000;
+  height: 434px;
+}
