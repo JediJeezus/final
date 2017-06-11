@@ -60,12 +60,24 @@
 }
 
 .line{
-  background-color: #ff5;
-  height: 10px;
+  background-color: #fff;
+  height: 5px;
 }
 /*Links Section*/
 
 .pastwork{
   background-color: #000;
-  height: 434px;
+  height: 412px;
+}
+
+.thumbnail {
+  background-color: #fff;
+  height: 300px;
+  padding-top: 40px;
+  margin-top: 72px;
+  margin-left: 19px;
+  padding: 96px;
+}
+.backup{
+  
 }
