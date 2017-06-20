@@ -1,0 +1,16 @@
+/*New Hero*/
+.jumbotron{
+  background-image: url("../img/phone.jpg");
+  text-align: center;
+  color: #fff;
+  background-position: top;
+  height: 50vh;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 0%;
+}
+
+.contact-section {
+  height: 42vh;
+  background-color: #000;
+}
