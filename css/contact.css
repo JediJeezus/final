@@ -9,6 +9,16 @@
   text-align: center;
   margin-bottom: 0%;
 }
+/*SOCIAL ICONS*/
+.footer-social-icons{
+  float: left;
+  margin-top: -1.62%;
+  padding-right: 0%;
+}
+
+
+
+/*CONTACT FORM*/
 
 .contact-section {
   height: 40vh;
