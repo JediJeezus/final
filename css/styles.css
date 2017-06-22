@@ -1,17 +1,24 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:400,600|Shadows+Into+Light');
-/*GLOBAL SECTION*/
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
+/*GLOBALS*/
+.light-robot{
+  font-family: "Roboto",cursive;
+  font-weight: 300;
+}
+.roboto{
+  font-family: 'Roboto', cursive;
+  font-weight: 400;
+}
+.robot{
+  font-family: 'Roboto', cursive;
+  font-weight: 700;
+}
+
 body {
   min-height: 100vh;
   max-height: 100vh;
+  background-color: #000;
 }
 
-.shadows{
-  font-family: 'Shadows Into Light', cursive;
-}
-
-.rale{
-  font-family: 'Raleway', sans-serif;
-}
 
 html{
   height: 100%;
@@ -131,7 +138,7 @@ i {
   color: #fff;
   font-size: 3em;
   height: %;
-  border-bottom: 3px solid #337ab7
+  border-bottom: 3px solid #337ab7;
 }
 
 
@@ -179,4 +186,11 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover{
 .text{
   visibility: hidden;
   height: 5%;
+  float: center;
 }
+
+p {
+    margin: 0px 0 -24px;
+}
+
+/*CONTACT SECTION*/
