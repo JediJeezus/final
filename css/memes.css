@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt');
+
+.rock{
+  font-family: Rock Salt , cursive;
+}
+
+
+.jumbotron{
+  background-color: #3e505e;
+}
+
+.ay{
+  float: right;
+  padding-right: 6%;
+  padding-top: 13%;
+}
+
+p{
+  color: #fff;
+}
+
+.black{
+  background-color: #000;
+  height: 10%;
+}
+
+.yoo{
+  background-color: #3e505e;
+}
+
+.nico{
+  float: right;
+  padding-top: 16%;
+  color: #fff;
+}
